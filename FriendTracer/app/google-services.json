@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "828217874272",
+    "firebase_url": "https://friendtracer-abbef.firebaseio.com",
+    "project_id": "friendtracer-abbef",
+    "storage_bucket": "friendtracer-abbef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828217874272:android:094af8a058540618",
+        "android_client_info": {
+          "package_name": "com.anbg.sanjeev.friendtracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828217874272-0506mht2ob49qo8qhfh7rk77j76jdvsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anbg.sanjeev.friendtracer",
+            "certificate_hash": "05d40ecbcdf030e21995a2c9c1d2de67336e39a0"
+          }
+        },
+        {
+          "client_id": "828217874272-4l7su8e90vmg7utsdt2jmnd7c67aelfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhrdK99imc0kpa2XqAY303F5u_guJwxr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828217874272-4l7su8e90vmg7utsdt2jmnd7c67aelfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
